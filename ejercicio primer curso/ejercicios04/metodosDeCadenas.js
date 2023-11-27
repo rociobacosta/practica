@@ -28,4 +28,3 @@ let resultado5 = cadena.padStart(25,'abcd');
 document.write(resultado5 + '<br>');
 
 //
-let resultado6 = cadena.
