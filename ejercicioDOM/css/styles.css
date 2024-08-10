@@ -1,0 +1,21 @@
+#app{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.nav-parent{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card{
+  margin: 5px !important;
+}
+
+.card:hover{
+  cursor: pointer;
+  filter: opacity(.5);
+}
